@@ -1,0 +1,33 @@
+{
+  "overrides": {
+    "DeepSeek": {
+      "process": "",
+      "killTitle": "DeepSeek",
+      "note": "Edge 安装版应用，关闭时按窗口标题匹配，避免误杀整个浏览器"
+    },
+    "ChatGPT": {
+      "process": "",
+      "killTitle": "ChatGPT|Codex",
+      "note": "微软商店应用，按窗口标题匹配关闭"
+    },
+    "Claude Code": {
+      "process": "",
+      "killTitle": "claude",
+      "note": "命令行工具，关闭会结束当前 claude 会话窗口"
+    },
+    "Kimi Code": {
+      "process": "",
+      "killTitle": "Kimi",
+      "note": "按窗口标题匹配"
+    },
+    "Clash Plus": {
+      "process": "MyClash"
+    },
+    "豆包": {
+      "process": "Doubao"
+    },
+    "千问": {
+      "process": "qianwen"
+    }
+  }
+}
